@@ -42,7 +42,7 @@ def format_caption():
 
 #ProjectMatrixx #spes #spesn #A15 #VIC #OFFICIAL #OSS
 *Project Matrixx | OFFICIAL | Android 15*
-*Released:* _{today}_'
+*Released:* _{today}'_
 
 ▪️[Download](https://www.projectmatrixx.org/downloads/spes)
 ▪️[Screenshots](https://t.me/TanvirBuildsSupport/87662)
