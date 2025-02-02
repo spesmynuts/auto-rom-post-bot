@@ -40,35 +40,32 @@ def format_caption():
     today = datetime.now().strftime("%d/%m/%y")
     caption = f"""
 
-#crDroid #spes #spesn #A15 #VIC #UNOFFICIAL #OSS
-*crDroid 11.x | UNOFFICIAL | Android 15*
+#ProjectMatrixx #spes #spesn #A15 #VIC #OFFICIAL #OSS
+*Project Matrixx | OFFICIAL | Android 15*
 *Released:* _{today}_'
 
-▪️Download
-▪️Screenshots
+▪️[Download](https://www.projectmatrixx.org/downloads/spes)
+▪️[Screenshots](https://t.me/TanvirBuildsSupport/87662)
 ▪️[Support Group](https://t.me/TanvirBuildsSupport)
 ▪️[Update Channel](https://t.me/Tanvir_CI)
 
 *Changelog:*
-• Type Here
-• Type Here
+• [Device](https://github.com/Matrixx-Devices/android_vendor_MatrixxOTA/blob/15.0/changelogs/spes.md)
+• [Source](https://github.com/Matrixx-Devices/android_vendor_MatrixxOTA/blob/15.0/changelogs/source_changelog.md)
 
 *Notes:*
-• Don't forget to backup your important data
-• Use [PIF](https://t.me/TanvirBuilds/435) if needed
-• Use official [OrangeFox](https://orangefox.download/device/spes) recovery
-• Report bugs with proper logs
+• Clean Flash
+• [Flashing Steps](https://github.com/Matrixx-Devices/android_vendor_MatrixxOTA/blob/15.0/instruction%2Fspes.md)
 • If you like our work, consider [donating](https://github.com/Team-Remix/.github/blob/main/donation%2FDONATION.md) to support server costs
-• This is an automatically generated post
 
 *Credits:*
 • All spes devs for resources
-• All of my testers for testing
+• Spes-Testing group for testing
 • Special thanks to God, Sun, Time, Love and Spes
 
-*By* [@tanvirr007](https://t.me/tanvirr007)
-*Follow* [@TanvirBuilds](https://t.me/TanvirBuilds)
-*Join* [@TanvirBuildsSupport](https://t.me/TanvirBuildsSupport)
+*By* [tanvirr007](https://t.me/tanvirr007) ✗ [sayann70](https://t.me/sayann70)
+*Follow* [@RedmiNote11_Updates](https://t.me/RedmiNote11_Updates)
+*Join* [@RedmiNote11_Community](https://t.me/RedmiNote11_Community)
 """
     return caption
 
